@@ -1,4 +1,6 @@
 // Returns the minimum number of coins based on user-inputted number of cents
+// Uses helper functions from CS50 library
+
 
 #include <cs50.h>
 #include <stdio.h>
